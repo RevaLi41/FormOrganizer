@@ -1,0 +1,8 @@
+1 - Object detection to tell what is an ID front
+2 - OCR to pull name from ID and store it as a global variable
+3 - Facial regonition to store a face after it has a name from ID front
+4 - Pull all Faces and names first.
+5 - Fuzzy match signitures on forms to the closest guess of the names stored
+6 - Add option to split pdf
+7 - tie everything to the globals
+8 - error handling for completely wrong photos
